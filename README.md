@@ -1,4 +1,4 @@
-R_learning_resources
+R learning resources
 ==========
 This repository summarizes helpful resources for an introduction in R in Data Science.
 
